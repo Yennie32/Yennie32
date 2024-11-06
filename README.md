@@ -18,7 +18,7 @@ En ce moment, je plonge dans :
 - HTML, CSS, Python, PHP et JavaScript 🖥️
 - Git, GitHub, et la magie du version control ✨
 - Et bien d’autres choses à venir (la liste va sûrement s’allonger, stay tuned 📻)…
-- 
+  
 🌱 Ce que je cherche
 Je suis à la recherche d’une alternance en développement web, au sein d’une équipe prête à m’accompagner dans cette aventure. Si vous cherchez une développeuse passionnée, avec un profil atypique et un engagement pour des projets à impact positif, alors parlons-en !
 
