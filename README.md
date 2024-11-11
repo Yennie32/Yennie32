@@ -6,7 +6,7 @@ Eh oui, après 12 ans à veiller sur des patients, à gérer des urgences, des r
 Depuis quelques mois, je suis en pleine immersion dans le monde du développement web à Ada Tech School, prête à explorer un nouvel univers : la tech. 🌐
 
 💡 Pourquoi la tech ?
-Après moults introspections (et de discussions avec des ami.e.s techs convaincu.e.s 👀), j’ai réalisé que ce qui me passionnait, c’était les environnements en constante évolution. Un secteur où la curiosité est un superpouvoir, la communauté vivante et inspirante et où le travail en équipe est essentiel tout en gardant une bonne dose d’autonomie. Un peu comme à l'hôtital mais en plus fun 😅
+Après moults introspections (et de discussions avec des ami.e.s techs convaincu.e.s 👀), j’ai réalisé que ce qui me passionnait, c’était les environnements en constante évolution. Un secteur où la curiosité est un superpouvoir, la communauté vivante et inspirante et où le travail en équipe est essentiel tout en gardant une bonne dose d’autonomie. Un peu comme à l'hôpital mais en plus fun 😅
 
 Les enjeux de l’éco-conception, de l’accessibilité et d’une tech plus inclusive me motivent à fond ! Je suis prête à relever les défis, et à me faire une place dans ce nouvel univers, avec l’enthousiasme qui m’a toujours caractérisée 🎉.
 
